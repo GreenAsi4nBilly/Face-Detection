@@ -1,0 +1,6 @@
+path: C:/QuangHuy/FaceDetectionDataset 
+train: images/train
+val: images/val
+
+names:
+  0: face
